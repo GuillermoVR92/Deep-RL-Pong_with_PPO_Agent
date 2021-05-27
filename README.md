@@ -62,7 +62,7 @@ The Agent can choose from six different actions:
 However, it is sufficient to train the Agent using only the actions LEFTFIRE and RIGHTFIRE. 
 
 #### Observation Space
-The size of the observation space determined by two temproally adjacent, cropped, downscaaled 80x80 greyscale screenshots of the game screen.
+The size of the observation space determined by two temporally adjacent, cropped, downscaaled 80x80 greyscale screenshots of the game screen.
 
 #### Rewards
 The reward is given by the game score.
