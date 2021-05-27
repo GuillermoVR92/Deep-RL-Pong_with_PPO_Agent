@@ -70,7 +70,7 @@ The reward is given by the game score.
 ### 2. Running the code
 The code is this repository requires numpy, PyTorch, OpenAI and Jupyter. Make sure that those are installed, some of the dependencies are installed directly using pip. Then, just open the Notebook 'pong-PPO.ipynb'. Follow the instructions within the notebook to train the Agent.
 
-#### 3. Results
+### 3. Results
 
 Without any training, the agent loses the game always.
 
