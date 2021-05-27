@@ -5,7 +5,7 @@ Deep RL Agent using Proximal Policy Optimization for solving the Pong game.
 
 In this project, we will train an Deep RL Agent to play the Atari game pong using Proximal Policy Optimization (PPO) algorithm. The environment is provided by OpenAI. The Agent percieves the world through pixels, and a Convolutional Neural Network is used for training the Agent. The code in this repo should be self-contained, apart from a few dependencies that are installed dynamically using pip.
 
-The architecture of the Conv net is based in 2 Conv layers and a fully connected layer with softmax ouput:
+The architecture of the Conv net is based in 2 Conv layers and 2 fully connected layer with sigmoid ouput:
 
 ```python
 # set up a convolutional neural net
