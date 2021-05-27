@@ -74,8 +74,8 @@ The code is this repository requires numpy, PyTorch, OpenAI and Jupyter. Make su
 
 Without any training, the agent loses the game always.
 
-![alt-text]()
+![alt-text](/No_Train_PPO.gif)
 
 With 1000 epochs of training, the agent wins the game!
 
-![alt-text]()
+![alt-text](/Trained_PPO.gif)
